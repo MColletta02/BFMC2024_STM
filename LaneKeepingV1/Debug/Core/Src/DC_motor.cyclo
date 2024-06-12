@@ -1,0 +1,4 @@
+DC_motor.c:3:7:DegreeSec2RPM	1
+DC_motor.c:8:7:Voltage2Duty	3
+DC_motor.c:21:9:Ref2Direction	2
+DC_motor.c:32:6:set_PWM_and_dir	3

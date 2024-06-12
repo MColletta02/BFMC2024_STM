@@ -1,0 +1,2 @@
+../Core/Src/Raspberry_UART.c:20:6:parseCSV	40	static
+../Core/Src/Raspberry_UART.c:35:6:mainSerialRead	32	static

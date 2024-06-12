@@ -1,0 +1,2 @@
+../Core/Src/BL_motor.c:12:7:BL_DegreeSec2RPM	1
+../Core/Src/BL_motor.c:17:6:BL_set_PWM	1
