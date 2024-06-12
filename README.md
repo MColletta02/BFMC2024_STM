@@ -1,7 +1,7 @@
 Codice di controllo per il basso livello ai fini della _Bosch Future for Mobility Challenge 2024_.
 
 I seguenti codici sono stati utilizzati per pilotare una macchina con motore elettrico brushless, permettendo di:
-- Controllo del motore mediante utilizzo di un PI ([versione brushless](https://www.hobbywing.com/en/products/quicrunfusionse.html), [versione brushed]())
+- Controllo del motore mediante utilizzo di un PI ([versione brushless](https://www.hobbywing.com/en/products/quicrunfusionse.html), [versione brushed](https://www.conrad.it/it/p/reely-re-5546574-parte-di-ricambio-motore-elettrico-550er-1848858.html?source=googleps&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2301568&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT27_esmOb0NLBZQ3p7xP3pJmXwDJF62vZBV3-lc1n4abF75XM0acnBoClnAQAvD_BwE))
 - Controllo di un servo motore per lo sterzo
 - Acquisizione di dati da un sensore IMU Bosch BNO055 ([AdaFruit board](https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor))
 - Comunicazione seriale con una raspberry Pi 4
